@@ -11,30 +11,21 @@ portfolio:
       date: April 2018
       category: Opensource Development
     - image: work2.jpg
-      title: Second Item
+      title: Beginners SDN Course in UDEMY Platform"
       desc: "Launched Udemy Course  - Learn SDN (Mininet, RYU Controller) with practical exercises"
       modalid: 14
-      client: Some Company
+      client: Udemy
       url: "https://www.udemy.com/learn-sdn-with-mininet-ryu-exercises/?couponCode=10DOLLAR"
       date: April 2018
       category: Training
     - image: work3.jpg
-      title: Third Item
+      title: Scalable, High Available Cluster of SDN Controllers
       desc: "Zookeeper and REDIS Integreation with RYU SDN Controller, to achive Scalable, Fault Tolerance Mulitcontroller SDN Environment."
       modalid: 15
       client: confidential
       url: "#"
       date: April 2018
-      category: SDN Project Assistance
-    - image: work4.jpg
-      title: Third Item
-      desc: "Zookeeper and REDIS Integreation with RYU SDN Controller, to achive Scalable, Fault Tolerance Mulitcontroller SDN Environment."
-      modalid: 15
-      client: confidential
-      url: "#"
-      date: April 2018
-      category: SDN Project Assistance      
-       
+      category: SDN Project Assistance       
 ---
 
 ## Some of Our Latest Work

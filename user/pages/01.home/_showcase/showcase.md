@@ -2,22 +2,22 @@
 title: Showcase
 menu: Top
 slides:
-  - image: image1.jpg
+  - image: img1.jpg
     heading: "<strong>Software Defined Networking </strong> Training Course !"
-    subheading: "Prepare for your academic research SDN projects with our training course.."
+    subheading: "Update your skills in SDN (Openflow, Openvswitch, OpenDayLight, RYU) , Prepare for your academic research SDN projects with our training courses.."
     button_text: PORTFOLIO
-    button_url: http://learn.getgrav.org
-  - image: image2.jpg
+    button_url: #
+  - image: img2.jpg
     heading: " <strong>Openstack</strong> Beginners Training. !"
     subheading: "Learn Openstack from Industry experienced professionals"
     button_text: PORTFOLIO
     button_url: http://learn.getgrav.org
-  - image: image3.jpg
+  - image: img3.jpg
     heading: "Academic Project Guidance in <strong>Software Defined Networking </strong>.. !"
     subheading: "Get your Project Guidance in RYU SDN Controller from Industry professionals"
     button_text: PORTFOLIO
     button_url: http://learn.getgrav.org  
-  - image: image4.jpg
+  - image: img4.jpg
     heading: "KNet Network Topology Builder -<strong> SDN Test bed </strong>.. !"
     subheading: "Opensouce, Docker based, Modernized, SDN Test Environment.  Supports majororty of SDN Use cases"
     button_text: PORTFOLIO
