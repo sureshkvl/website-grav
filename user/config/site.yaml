@@ -1,0 +1,61 @@
+title: Knet Solutions
+author:
+  name: Suresh Kumar                      # Default author name
+  email: 'sureshkumarr.s@gmail.com'                   # Default author email
+  copyright: "Copyright 2018 Knet Solutions. All Rights Reserved."
+contact:
+  address:
+    - line: "Pallikaranai"
+    - line: "Chennai, TamilNadu"
+    - line: "India"
+    - line: "Phone:  +91 9445042007"
+othermenu:
+  - text: "About"
+    url: "about"
+  - text: "Privacy Policy"
+    url: "#"
+  - text: "Contact"
+    url: "contact"
+quicklinks:
+  - text: "Portfolio"
+    url: "base_url:portfolio"
+  - text: "About"
+    url: "base_url:about"
+  - text: "Archive"
+    url: "base_url:archive"
+  - text: "Blog"
+    url: "base_url:blog"   
+  - text: "Contact Us"
+    url: "base_url:contact"          
+taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
+blog:
+  route: '/blog'                            # Route to blog
+metadata:
+    description: 'My Deliver Site'             # Site description
+summary:
+  size: 300                                 # Maximum length of summary (characters)
+routes:
+  /something/else: '/blog/sample-3'         # Alias for /blog/sample-3
+  /another/one/here: '/blog/sample-3'       # Another alias for /blog/sample-3
+  /new/*: '/blog/*'                         # Wildcard any /new/my-page URL to /blog/my-page Route
+
+header_options:
+  arrows: 'true'                            # Create Next and previous button
+  autoslide: 'false'                        # Auto slideshow mode
+  autoslideHoverStop: 'false'               # Pause auto slideshow mode on mouseover
+  interval: '1000'                          # The interval between each slide (Interval in millisecond)
+  loop: 'false'                             # Infinite slideshow             
+  transition : zoom                         # Set the animation kind (fade/slide/page/zoom)
+  itemsForSlide: '0'                        # Wrap each 'n' item
+  touch: 'true'                             # Set a native slide for touch device
+  swipe : 'true'                            # Enable swipe for touch device
+
+footer:
+    description: "KNet Solutions provides practical/hands-on training with Industry experts. The Instructor has 17 years of IT industry experience and  contributes(upstream) in Openstack and SDN Projects."
+    contact_title: "Contact Info"
+    links_title: "Quick Links"
+    newsletter_title: "Newsletter"
+    copyright_text: "Copyright 2018 Knet solutions. All Rights Reserved."
+    feedburner: ""   # Your feedburner id for Newsletter footer modul
+
+
