@@ -1,10 +1,11 @@
 ---
 title: Trainings & Project Assistance
+menu: Portfolio
 portfolio:
     - title: SDN Academic Project Guidance/Assistance
       desc: "123."
       image: sdn_training.jpg
-      modalid: 1
+      modalid: 13
       client: RocketTheme
       date: April 2014
       category: Web Development
@@ -12,7 +13,7 @@ portfolio:
     - title: SDN Beginners Course
       desc: "This training covers the basics of Software Defined Networking. Includes SDN, Openflow Theory, Setting up the SDN test environment, RYU and ODL Controllers."
       image: sdn_training.jpg
-      modalid: 1
+      modalid: 14
       client: 
       date: April 2018
       category: Training
@@ -20,7 +21,7 @@ portfolio:
     - title: SDN Application Development with RYU
       desc: "This training covers the writing SDN applications in RYU Controller. Step by Step approach with exercises to mini projects"
       image: sdn_training.jpg
-      modalid: 2
+      modalid: 15
       client: 
       date: April 2018
       category: Project Assistance
@@ -28,7 +29,7 @@ portfolio:
     - title: OpendayLight Beginners Course
       desc: "Starting Soon."
       image: chimera.jpg
-      modalid: 4
+      modalid: 16
       client: 
       date: Sep 2018
       category: Training
@@ -36,7 +37,7 @@ portfolio:
     - title: Openstack Beginners Course
       desc: "Starting Soon."
       image: hadron.jpg
-      modalid: 5
+      modalid: 16
       client: 
       date: Sep 2018
       category: Training

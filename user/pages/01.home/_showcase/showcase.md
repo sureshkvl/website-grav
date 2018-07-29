@@ -4,7 +4,7 @@ menu: Top
 slides:
   - image: i1.jpg
     heading: "<strong>Software Defined Networking </strong> Training Course !"
-    subheading: "Update your skills in SDN (Openflow, Openvswitch, OpenDayLight, RYU) , Prepare for your academic research SDN projects with our training courses.."
+    subheading: "Update your skills in SDN (Openflow, Openvswitch, OpenDayLight, RYU, KNet, Mininet) , Prepare for your academic/ research SDN projects with our training courses.."
     button_text: PORTFOLIO
     button_url: #
   - image: i2.jpg
