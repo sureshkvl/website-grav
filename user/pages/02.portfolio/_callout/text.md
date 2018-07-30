@@ -2,47 +2,38 @@
 title: Trainings & Project Assistance
 menu: Portfolio
 portfolio:
-    - title: SDN Academic Project Guidance/Assistance
+    - title: SDN Academic Project Guidance
       desc: "123."
-      image: sdn_training.jpg
+      image: project_assistance.jpg
       modalid: 13
-      client: RocketTheme
-      date: April 2014
-      category: Web Development
-      url: http://www.rockettheme.com
+      date: April 2018
+      category: Project development
     - title: SDN Beginners Course
       desc: "This training covers the basics of Software Defined Networking. Includes SDN, Openflow Theory, Setting up the SDN test environment, RYU and ODL Controllers."
       image: sdn_training.jpg
       modalid: 14
-      client: 
       date: April 2018
       category: Training
-      url: http://www.knetsolutions.in
-    - title: SDN Application Development with RYU
+    - title: Programming with RYU
       desc: "This training covers the writing SDN applications in RYU Controller. Step by Step approach with exercises to mini projects"
-      image: sdn_training.jpg
+      image: ryu_training.jpg
       modalid: 15
-      client: 
       date: April 2018
       category: Project Assistance
-      url: http://www.knetsolutions.in
     - title: OpendayLight Beginners Course
       desc: "Starting Soon."
-      image: chimera.jpg
+      image: opendaylight_training.jpg
       modalid: 16
       client: 
       date: Sep 2018
       category: Training
-      url: http://www.knetsolutions.in
     - title: Openstack Beginners Course
       desc: "Starting Soon."
-      image: hadron.jpg
+      image: openstack_training.jpg
       modalid: 16
       client: 
       date: Sep 2018
       category: Training
-      url: http://www.knetsolutions.in
-
 ---
 ## Our Services
 ___
