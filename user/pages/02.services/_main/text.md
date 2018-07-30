@@ -10,7 +10,7 @@ pricing:
         - line: Life time access to Recorded Videos
       button_text: Full Details
       button_url: "sdn_beginners"
-    - name: SDN Programming with RYU
+    - name: RYU SDN Controller
       price: $300
       options:
         - line: mini projects
@@ -21,7 +21,7 @@ pricing:
       button_url: "ryu_training"
 
     - name: SDN Project Assistance
-      price: $150 - $750
+      price:  -
       options:
         - line: Price varies depends on Complexities
         - line: 3 to 6 weeks
