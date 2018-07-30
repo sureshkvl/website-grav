@@ -4,7 +4,7 @@ title: SDN Beginners course
 
 # SDN for Beginners !
 
-### Introduction
+## Introduction
 
 This course specifically built for beginners(students, professionals), who wants to learn SDN in One Month, and get hands on SDN Lab.   
 
@@ -14,11 +14,11 @@ This training session works as below,
 2. Recorded Videos will be shared for each week
 3. Email, Skype, Phone support for doubts, clarifications.
 
-===
+---
 
 ### Duration:  ** 4 Weeks **
 
-===
+---
 
 ## Syllapus
 
@@ -87,9 +87,9 @@ This training session works as below,
 * REST API
 * L2 Switch Demo
 
-===
+---
 
-### Schedule:
+## Schedule:
 
 #### Week1:
 1. Week1 Introductory Session by the Instructor
@@ -111,17 +111,25 @@ This training session works as below,
 2. Discussion, Clarification
 
 
-===
+---
 
 ### Payment Terms:  
 
 * 50% Advance on start of the Course
 * 50% on Week2.
 
-####  Payment Methods 
+###  Payment Methods 
 * For International Students:  
    Paypal, Payoneer payment Gateway - Transcational charges applicable
 
 * For Indian Students:  
    Bank Transfer - 18% GST applicable
 
+
+---
+
+### Enrollment:  
+
+Contact us in Email : **knetsolutions2@gmail.com**
+
+---
