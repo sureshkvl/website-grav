@@ -26,7 +26,7 @@ portfolio:
       modalid: 14
       date: April 2018
       category: Training
-      url: #sdn_beginners
+      url: sdn_beginners/default.md
 
     - title: Programming with RYU
       desc: "This training covers the writing SDN applications in RYU Controller. Step by Step approach with exercises to mini projects"
