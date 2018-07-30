@@ -1,6 +1,6 @@
 ---
 title: Setup the SDN Test bed in 10 mins.
-date: 13:34 30/07/2018
+date: 13:34 07/30/2018
 author: Suresh Kumar
 body_classes: header-lite fullwidth blogstyling
 taxonomy:

@@ -13,4 +13,4 @@ ___
 ## Students Trained - 91,   
 ## Projects Guided - 10
 
-We have students across the world (U.S, France, Germany, Malaysia, Brazil, India,....etc ), 
+** We have students across the world (U.S, France, Germany, Malaysia, Brazil, India,....etc ) **
