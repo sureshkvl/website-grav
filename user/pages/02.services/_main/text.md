@@ -4,29 +4,37 @@ pricing:
     - name: SDN For Beginners
       price: $150
       options:
-        - line: Beginners Course
+        - line: Online Training      
+        - line: Recorded Videos
+        - line: Beginners Course 
+        - line: Handson/Lab Exercises
         - line: 3 Weeks
-        - line: Exercises and Assignments
-        - line: Life time access to Recorded Videos
+        - line: Immediate Support
+        - line: Weekly Review       
       button_text: Full Details
       button_url: "sdn_beginners"
     - name: RYU SDN Controller
       price: $300
       options:
-        - line: mini projects
-        - line: 6 weeks
-        - line: Contact Form
-        - line: Training Included
+        - line: Online Training      
+        - line: Recorded Videos
+        - line: Advanced Course  
+        - line: Exercises          
+        - line: Openflow Miniprojects
+        - line: 6 Weeks
+        - line: Weekly Review & Support        
       button_text: Full Details
       button_url: "ryu_training"
-
     - name: SDN Project Assistance
-      price:  -
+      price:  $250+
       options:
-        - line: Price varies depends on Complexities
         - line: 3 to 6 weeks
-        - line: Contact Form
         - line: Training Included
+        - line: Phased delivery 
+        - line: Continuous Support
+        - line: Recorded Video
+        - line: Development
+        - line: RYU SDN
       button_text: Full Details
       button_url: "sdn_project_assistance"
 
@@ -62,5 +70,4 @@ pricing:
 
 
 ---
-## Trainings and Project Assistance
-our trainings.
+## Online Trainings and Project Assistance
