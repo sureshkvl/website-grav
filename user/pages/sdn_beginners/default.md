@@ -2,15 +2,95 @@
 title: SDN Beginners course
 ---
 
-# Grav is Running!
-## You have installed **Grav** successfully
+# SDN for Beginners !
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
+### Duration:  ** 4 Weeks **
 
-! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+### Syllapus
 
-### Find out all about Grav
+#### Part1: Traditional Networking Concepts
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+* TCP/IP Overview
+* Layer2 addressing
+* Layer3 addressing (IPv4 Address, Subnets)
+* How L2 Switch works
+* How L3 Router works
+
+#### Part2: SDN Concepts
+
+* Problems in Networking
+* What is SDN?
+* SDN Components and Architecture 
+* SDN Controllers overview
+* SouthBound and NorthBound Protocols & Interfaces
+* SDN Tools overview
+
+#### Part3: Preparing SDN Environment
+
+* Operating System Setup
+* Mininet Installation
+* Wireshark Installation
+* Openvswitch Overview & Installation
+* RYU Controller Overview & Installation
+* ODL Controller Overview & Installation
+* Demo1: L2 Switch Demo with RYU
+* Demo2: L2 Switch Demo with ODL
+
+#### Part4: Mininet
+* Mininet Commands
+* Simple predefined Topologies
+* Running TCP Traffic Tests
+* Running UDP Traffic Tests
+* How to write Custom topology
+* Datacenter Topology
+* Topology with Multiple controllers
+
+#### Part5: Openflow in Detail
+* Introduction, Version Details
+* Message Types
+* Basic operations/Packet Matching
+* Match Types, Match Actions
+* Setting up a Flow
+* Flow Times
+* Flow Table Format
+* Pipeline Processing
+* OpenFlow Management and Configuration Protocol 
+
+#### Part6: RYU Controller
+* Introduction
+* Application Overview
+* L2 Switch Application
+* How to write RYU Application
+* L3/L4 Match exercise 
+* Flow Timer exercise
+* Pipeline exercise
+* REST API
+
+#### Part7: OpenDayLight Controller
+* Installation
+* Application overview
+* UI, Topology Viewer, 
+* REST API
+* L2 Switch Demo
+
+
+### Schedule:
+
+#### Week1:
+1. Week1 Introductory Session by the Instructor
+2. Part1, Part2, Part3 Video Tutorials
+3. Q&A, Review of Week1 by the Intructor
+
+#### Week2 - Part4, Part5
+1. Week2 Introductory Session by the Instructor
+2. Part4, Part5 Video Tutorials
+3. Q&A,Review of Week2 by the Intructor
+
+#### Week3 - Part6, Part7
+1. Week3 Introductory Session by the Instructor
+2. Part6, Part7 Video Tutorials
+3. Q&A, Review of Week3 by the Intructor
+
+#### Week4 - Recap
+1. Week4 Recap Session by the Instructor
+2. Discussion, Clarification
