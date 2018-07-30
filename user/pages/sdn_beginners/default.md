@@ -14,11 +14,11 @@ This training session works as below,
 2. Recorded Videos will be shared for each week
 3. Email, Skype, Phone support for doubts, clarifications.
 
-====
+===
 
 ### Duration:  ** 4 Weeks **
 
-=====
+===
 
 ## Syllapus
 
@@ -87,7 +87,7 @@ This training session works as below,
 * REST API
 * L2 Switch Demo
 
-==========
+===
 
 ### Schedule:
 
@@ -111,7 +111,7 @@ This training session works as below,
 2. Discussion, Clarification
 
 
-====
+===
 
 ### Payment Terms:  
 
@@ -125,4 +125,3 @@ This training session works as below,
 * For Indian Students:  
    Bank Transfer - 18% GST applicable
 
-=====
