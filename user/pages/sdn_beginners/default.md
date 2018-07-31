@@ -96,17 +96,17 @@ This training session works as below,
 2. Part1, Part2, Part3 Video Tutorials 
 3. Q&A, Review of Week1 by the Intructor
 
-#### Week2 - Part4, Part5
+#### Week2 
 1. Week2 Introductory Session by the Instructor
 2. Part4, Part5 Video Tutorials
 3. Q&A,Review of Week2 by the Intructor
 
-#### Week3 - Part6, Part7
+#### Week3 
 1. Week3 Introductory Session by the Instructor
 2. Part6, Part7 Video Tutorials
 3. Q&A, Review of Week3 by the Intructor
 
-#### Week4 - Recap
+#### Week4
 1. Week4 Recap Session by the Instructor
 2. Discussion, Clarification
 
