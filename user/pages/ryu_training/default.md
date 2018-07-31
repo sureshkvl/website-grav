@@ -28,75 +28,73 @@ This training session works as below,
 * Introduction
 * Application Overview
 * Sample Applications demo
-* L2 Switch
+* L2 Switch,
 * Spanning Tree
-
-
-#### Part2: Simple Exercises
 * How to write RYU Application
 * L3/L4 Match exercise 
 * Flow Timer exercise
 * Pipeline exercise
 
-
-#### Part3: REST API Integration
+#### Part2: REST API Integration
 * REST API Overview
 * RYU REST API Interface
 * Exercise - dummy interface
 * Exercise - Integreate with L2 Switch application
 
-#### Part4: Generating Protocols Packets
+#### Part3: Generating Protocols Packets
 * Packet library overview
-* Packet decoder/encoder
-* ARP,ICMP,IP Packets 
-* TCP,UDP Packets
+* Packet decoder/encoder 
+* ARP,ICMP,IP,TCP,UDP Packets
 * Generating Packets
 * ARP Proxy exercise
 
-#### Part5 : DNS Proxy Project
-* What is DNS Proxy?
-* Implementation Idea
-* Developement and Demo
-
-#### Part6: Statistics Measurement
+#### Part4: Statistics Measurement
 * Openflow messages for Statistics 
 * Port Statistics 
 * Flow Statistics 
 * Calculation in Mbps
 
-#### Part7: Port Monitor Project
-* How to setup/configure Grafane,Graphite.
+#### Part5: DDoS Implementation
+* DDoS Theory
 * Implementation Idea
-* Developement and Demo
+* Code Explained
+* Demo
 
-
-#### Part8: VLAN Implementation
+#### Part6: VLAN Implementation
 * VLAN Theory
 * Openflow Action Messages for VLAN
 * Implementation Idea
 * Code Explained
 * Demo
 
-#### Part9: DDoS Implementation
-* DDoS Theory
+#### Part7: L3 Router Implementation
+* Router functionalities
 * Implementation Idea
 * Code Explained
 * Demo
 
-#### Part10: L3 Router Implementation
-* Router functionalities
+#### Part8: Multicontroller environment
+* Equal/Master/Slave Role Overview
+* Openflow Role messages 
+* Exercise for Equal Role
+* Exercise for Master/Slave role
+* Controller Synchronization Overview
+* Exercise
 
-#### Part11: Multicontroller environment
-* Master/Slave Overview
+#### Part9: OVSDB Library
+* Accessing OVS using OVSDB APIs
 
 
-#### Part12: OVS Library
-* Todo
+#### Part10: Port Monitor Project
+* How to setup/configure Grafane,Graphite.
+* Implementation Idea
+* Developement and Demo
 
 
-#### Part13: BGP Speaker
-* Todo
-
+#### Part11: BGP Speaker Project
+* BGP Speaker overview
+* BGP Speaker APIs
+* BGP Speaker Demo
 
 
 ---
@@ -110,7 +108,7 @@ This training session works as below,
 ### Payment Terms:  
 
 * 50% Advance on start of the Course
-* 50% on Week2.
+* 50% on Week3.
 
 ###  Payment Methods 
 * For International Students:  

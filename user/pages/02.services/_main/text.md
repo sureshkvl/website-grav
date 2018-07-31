@@ -14,7 +14,7 @@ pricing:
       button_text: Full Details
       button_url: "sdn_beginners"
     - name: RYU SDN Controller
-      price: $300
+      price: $250
       options:
         - line: Online Training      
         - line: Recorded Videos
