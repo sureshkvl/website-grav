@@ -9,6 +9,13 @@ pages:
   markdown:
     extra: false  
 
+metadata:
+    refresh: 30
+    generator: 'Grav'
+    description: 'Training in Software Defined Networking, SDN, RYU, Opendaylight, Mininet, Openstack. Academic Projects assistance in SDN'
+    keywords: 'SDN, Software Defined Networking, RYU, Opendaylight, ODL, Mininet, Openstack'
+    author: 'Knet solutions'
+
 cache:
   enabled: false
   check:

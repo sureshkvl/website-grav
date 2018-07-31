@@ -1,5 +1,5 @@
 ---
-title: RYU SDN Programming Training
+title: RYU SDN Programming Training Course
 ---
 
 # SDN Application Development in RYU Controller !
@@ -22,7 +22,7 @@ This training session works as below,
 
 ---
 
-## Syllapus
+## Syllabus
 
 #### Part1: RYU Controller
 * Introduction

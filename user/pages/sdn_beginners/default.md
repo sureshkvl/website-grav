@@ -20,7 +20,7 @@ This training session works as below,
 
 ---
 
-## Syllapus
+## Syllabus
 
 #### Part1: Traditional Networking Concepts
 
