@@ -17,6 +17,10 @@ othermenu:
   - text: "Contact"
     url: "contact"
 quicklinks:
+  - text: "Facebook Page"
+    url : "https://www.facebook.com/sdntraining/"
+  - text: "Youtube channel"
+    url : "https://www.youtube.com/channel/UCTD6X9_oDqIYs_xpE7moFnQ"
   - text: "Portfolio"
     url: "base_url:portfolio"
   - text: "About"
@@ -32,10 +36,6 @@ metadata:
     description: 'Training in Software Defined Networking, SDN, RYU, Opendaylight, Mininet, Openstack. Academic Projects assistance in SDN'
 summary:
   size: 300                                 # Maximum length of summary (characters)
-routes:
-  /something/else: '/blog/sample-3'         # Alias for /blog/sample-3
-  /another/one/here: '/blog/sample-3'       # Another alias for /blog/sample-3
-  /new/*: '/blog/*'                         # Wildcard any /new/my-page URL to /blog/my-page Route
 
 header_options:
   arrows: 'true'                            # Create Next and previous button
