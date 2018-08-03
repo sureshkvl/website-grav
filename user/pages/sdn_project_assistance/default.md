@@ -41,7 +41,7 @@ We provides training and guidance to complete your SDN Project.
 
 ### Terms:
 
-[Terms](files/terms.pdf)
+[Terms](../files/terms.pdf)
 
 ### Enrollment:  
 

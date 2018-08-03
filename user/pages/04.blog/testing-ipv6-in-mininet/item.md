@@ -30,7 +30,7 @@ The global unicast address is globally unique in the Internet. Examples: 2001::1
 
 **Objective**  Lets use the RYU Controller with Mininet Single Topology(4 switchs).
 
-### A. Start the Ryu controller
+#### A. Start the Ryu controller
 
 
 Start the Ryu Controller with Simple Openflow 1.3 Switch application as below,
@@ -54,14 +54,14 @@ Start the Ryu Controller with Simple Openflow 1.3 Switch application as below,
 In the mininet terminal, issue the below command,
 
 >  h1 ifconfig h1-eth0
->  h2 ifconfig h1-eth0
->  h3 ifconfig h1-eth0
->  h4 ifconfig h1-eth0
+>  h2 ifconfig h2-eth0
+>  h3 ifconfig h3-eth0
+>  h4 ifconfig h4-eth0
 
 ![Host IPv6 address](ipv6_address.jpg)
 
 
-#### C. Ping Test between Host1 to Host2
+#### D. Ping Test between Host1 to Host2
 
 **ping6 utility is used for IPv6 Ping**
 
@@ -76,7 +76,7 @@ Example:
 ![Ping Output ](ping_output.jpg)
 
 
-#### D. IPERF TCP Test (Host1 to Host2)
+#### E. IPERF TCP Test (Host1 to Host2)
 
 In IPERF "-V" option is used for enabling IPv6.
 
@@ -88,11 +88,20 @@ Note: open xterm for hosts, to run the iperf tests.
 
 > iperf -V -s
 
+
 **To run the TCP Client:**
 
+**Global Unicast Address**
+
 > iperf -c <unicast address> -V
+
+Example:
 > iperf -c 2001:2 -V
+
+**LinkLocal Address**
+
 > iperf -c <link local address%interface name> -V
+Example:
 > iperf -c fe80::200:ff:fe00:2%h1-eth0 -V
 
 In our case, we are using the Link Local address, hence we using this below command,
@@ -108,7 +117,7 @@ Note: we need to specify IPv6 link local address in this  "IPv6-address%interfac
 
 UDP Test is similar to above. 
 
-#### E. Testing in IPv6 Unicast address 
+#### F. Testing in IPv6 Unicast address 
 
 **Assign the IPv6 global unicast address to hosts**
 
@@ -118,6 +127,7 @@ UDP Test is similar to above.
 **Ping Test**
 
 > h1 ping6 -I h1-eth0  2001::2
+
 > h2 ping6 -I h2-eth0  2001::1
 
 ** TCP Test **
