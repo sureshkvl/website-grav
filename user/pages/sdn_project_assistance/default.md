@@ -39,6 +39,10 @@ We provides training and guidance to complete your SDN Project.
 
 ---
 
+### Terms:
+
+[Terms](files/terms.pdf)
+
 ### Enrollment:  
 
 Contact us in Email : **knetsolutions2@gmail.com**
