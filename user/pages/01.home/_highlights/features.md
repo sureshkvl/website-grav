@@ -4,7 +4,7 @@ menu: Highlights
 class: big
 features:
 	- header: Bijju, Bangalore , India
-	  text: "Knetsolutions was a good platform for guidance and completion of our project. Always got immediate response ,when doubts are being asked anytime. It was an awesome journey with knetsolutions being a pillar support for completion of project and very thankful for assisting during the hardships of my project."
+	  text: "Knetsolutions was a good platform for guidance and completion of our project. Always got immediate response ,when doubts are being asked anytime.  The work gets completed before the deadline with their assistance, if we are seriously showing interest on the project. Knetsolutions gave a friendly environment while teaching about stuffs given by them to the project and also during clarifying the doubtsIt was an awesome journey with knetsolutions being a pillar support for completion of project and very thankful for assisting during the hardships of my project."
 	  icon: star-o
 	- header: Haider Fayeq, KL, Malaysia
 	  text: "knetsolutions is probably the best solution I've ever had in a topic of Software-Defined Networking. Although the content is very difficult for me when I read the books, the lecturer Mr. Suresh Kumar made it easy to understand. The lecturer clearly understands his subject, and made the content well suited for novice to advanced student."
