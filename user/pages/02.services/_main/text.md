@@ -33,7 +33,7 @@ pricing:
         - line: Support
         - line: Improvement Ideas        
       button_text: Full Details
-      button_url: "ryu_sdn_mini_projects"      
+      button_url: "sdn_mini_projects"      
     - name: SDN Project Assistance
       price:  $250+
       options:

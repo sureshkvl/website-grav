@@ -4,7 +4,7 @@ menu: Other Pages
 class: small
 buttons:
     - text: LEARN
-      url: http://learn.getgrav.org
+      url: sdn_beginners
       primary: true
 ---
 ___
