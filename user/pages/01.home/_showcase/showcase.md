@@ -8,10 +8,10 @@ slides:
     button_text: TRAINING
     button_url: "services"
   - image: i2.jpg
-    heading: " <strong>Openstack</strong> Beginners Training. !"
-    subheading: "Learn Openstack from Industry experienced professionals"
-    button_text: TRAINING
-    button_url: "services"
+    heading: " <strong>SDN Mini Projects</strong> . !"
+    subheading: "Learn SDN Mini Projects with Source Code, Video Explanations, Support"
+    button_text: MINIPROJECTS
+    button_url: "ryu_sdn_mini_projects"
   - image: i3.jpg
     heading: "Academic Project Guidance in <strong>Software Defined Networking </strong>.. !"
     subheading: "Get your Project Guidance in RYU SDN Controller from Industry professionals"
