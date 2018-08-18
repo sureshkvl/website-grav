@@ -33,7 +33,8 @@ taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
 metadata:
-    description: 'Training in Software Defined Networking, SDN, RYU, Opendaylight, Mininet, Openstack. Academic Projects assistance in SDN'
+    description: 'Training in Software Defined Networking, Academic SDN Projects Assistance, Training in Mininiet, KNet, SDN Controllers (RYU, Opendaylight), Openstack. Chennai , Tamilnadu , India'
+    keywords: 'SDN, Software Defined Networking, SDN Projects, SDN IEEE Projects, SDN Academic Projects, SDN Training, Mininet, RYU, Opendaylight, Openstack'
 summary:
   size: 300                                 # Maximum length of summary (characters)
 
