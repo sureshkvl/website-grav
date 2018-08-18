@@ -11,12 +11,12 @@ slides:
     heading: " <strong>SDN Mini Projects</strong> . !"
     subheading: "Learn SDN Mini Projects with Source Code, Video Explanations, Support"
     button_text: MINIPROJECTS
-    button_url: "sdn_mini_projects"
+    button_url: "miniprojects"
   - image: i3.jpg
     heading: "Academic Project Guidance in <strong>Software Defined Networking </strong>.. !"
     subheading: "Get your Project Guidance in RYU SDN Controller from Industry professionals"
     button_text: PROJECT GUIDE
-    button_url: "services"  
+    button_url: "projects"  
   - image: i4.jpg
     heading: "KNet Network Topology Builder -<strong> SDN Test bed </strong>.. !"
     subheading: "Opensouce, Docker based, Modernized, SDN Test Environment.  Supports majororty of SDN Use cases"

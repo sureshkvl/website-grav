@@ -11,7 +11,7 @@ pricing:
         - line: Immediate Support
         - line: Weekly Review       
       button_text: Full Details
-      button_url: "sdn_beginners"
+      button_url: "sdnbeginners"
     - name: RYU SDN Controller
       price: $100
       options:
@@ -22,7 +22,7 @@ pricing:
         - line: Miniproject Ideas
         - line: Weekly Review & Support        
       button_text: Full Details
-      button_url: "ryu_training"
+      button_url: "ryutraining"
     - name: RYU SDN Mini Projects
       price: $10
       options:
@@ -33,7 +33,7 @@ pricing:
         - line: Support
         - line: Improvement Ideas        
       button_text: Full Details
-      button_url: "sdn_mini_projects"      
+      button_url: "miniprojects"      
     - name: SDN Project Assistance
       price:  $250+
       options:
@@ -45,7 +45,7 @@ pricing:
         - line: Development
         - line: RYU SDN
       button_text: Full Details
-      button_url: "sdn_project_assistance"
+      button_url: "projects"
 
     - name: Opendaylight Training
       price: Coming Soon
