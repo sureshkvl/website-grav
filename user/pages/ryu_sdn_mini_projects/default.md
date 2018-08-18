@@ -5,9 +5,6 @@ title: RYU SDN Mini Projects
 # SDN Mini Projects !
 
 ---
-
-## 1. Router 
-
 ![Router](SDNRouter_small.jpg)
 
 The objective of this project is Layer3 Router implementation in RYU Controller.  
@@ -22,8 +19,6 @@ The Video Tutorial help you to understand the Router Functionalities(how router 
 **PRICE : 10$ **
 
 **Sample Video:   [Video](https://youtu.be/A6mEkQZiP7M)**
-
-
 ---
 
 
