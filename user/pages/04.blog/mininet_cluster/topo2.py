@@ -1,0 +1,52 @@
+'''
+
+#References
+# 1. http://www.kanadas.com/program-e/2013/02/two_types_of_gre_tunneling_con.html
+# 2.https://techandtrains.com/2014/01/25/using-linux-gre-tunnels-to-connect-two-mininet-networks/
+
+'''
+
+from mininet.topo import Topo
+from mininet.net import Mininet
+from mininet.log import setLogLevel
+from mininet.cli import CLI
+from mininet.node import RemoteController
+from time import sleep
+from mininet.link import Intf
+#Change the Computer IPs(NODE IPs)
+NODE1_IP = "192.168.122.25"
+NODE2_IP = "192.168.122.102"
+
+
+class SingleSwitchTopo(Topo):
+    "Single switch connected to n hosts."
+    def build(self):
+        s2 = self.addSwitch('s2')
+        h3 = self.addHost('h3', mac="00:00:00:00:00:03", ip="192.168.1.3/24")
+        h4 = self.addHost('h4', mac="00:00:00:00:00:04", ip="192.168.1.4/24")
+        self.addLink(h3, s2)
+        self.addLink(h4, s2)
+
+if __name__ == '__main__':
+    setLogLevel('info')
+    topo = SingleSwitchTopo()
+    #change the controller IP?
+    c1 = RemoteController('c1', ip='192.168.122.102')
+    net = Mininet(topo=topo, controller=c1)
+
+    # Delete old tunnel, if it still exists.
+    s2 = net.get('s2')
+    s2.cmd('ifconfig s2-gre1 down')
+    s2.cmd('ip tunnel del s2-gre1')
+    s2.cmd('ip link del s2-gre1')
+
+    # create new GRE L2 Tunnel
+    s2.cmd('ip link add s2-gre1 type gretap local '+NODE2_IP+' remote '+NODE1_IP+' ttl 64 key 1.2')
+    s2.cmd('ip link set dev s2-gre1 up')
+    # add the GRE interface in to switch s1
+    Intf('s2-gre1', node=s2)
+    net.start()
+    sleep(5)
+    net.pingAll()
+    CLI(net)
+    net.stop()
