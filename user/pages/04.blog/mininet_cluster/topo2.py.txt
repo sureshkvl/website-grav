@@ -13,9 +13,10 @@ from mininet.cli import CLI
 from mininet.node import RemoteController
 from time import sleep
 from mininet.link import Intf
-#Change the Computer IPs(NODE IPs)
-NODE1_IP = "192.168.122.25"
-NODE2_IP = "192.168.122.102"
+
+#change the COMPUTER IPs
+NODE1_IP = "192.168.122.1"
+NODE2_IP = "192.168.122.2"
 
 
 class SingleSwitchTopo(Topo):
@@ -31,7 +32,7 @@ if __name__ == '__main__':
     setLogLevel('info')
     topo = SingleSwitchTopo()
     #change the controller IP?
-    c1 = RemoteController('c1', ip='192.168.122.102')
+    c1 = RemoteController('c1', ip=NODE1_IP)
     net = Mininet(topo=topo, controller=c1)
 
     # Delete old tunnel, if it still exists.
