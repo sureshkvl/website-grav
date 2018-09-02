@@ -5,24 +5,26 @@ title: RYU SDN Mini Projects
 # SDN Mini Projects !
 
 ---
-![Router](SDNRouter_small.jpg)
 
-The objective of this project is Layer3 Router implementation in RYU Controller.  
+1. VLAN
+2. DoS & DDoS Defender
+3. Router
+4. BGP Router
 
-The Video Tutorial help you to understand the Router Functionalities(how router works), Router Implementation in RYU SDN Controller(Source code), and Demonstration. 
+The Video Tutorial helps you to understand the Project objective, Concepts, Demonstration and Source Code.
 
 **Delivery:**
 1. Video Tutorials
 2. Source Code
 3. Support
 
-**PRICE : 10$ **
+**PRICE : 12$ **
 
 **Sample Video:   [Video](https://youtu.be/A6mEkQZiP7M)**
 ---
 
 
-### Enrollment:  
+### How to buy this:  
 
 Contact us in Email : **knetsolutions2@gmail.com**
 
