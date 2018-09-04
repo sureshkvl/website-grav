@@ -24,7 +24,7 @@ pricing:
       button_text: Full Details
       button_url: "ryutraining"
     - name: RYU SDN Mini Projects
-      price: $12
+      price: $20
       options:
         - line: Router, VLAN, DoS Defender 
         - line: BGP Router Projects
