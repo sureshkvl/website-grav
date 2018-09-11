@@ -18,7 +18,7 @@ The Video Tutorial helps you to understand the Project objective, Concepts, Demo
 2. Source Code
 3. Support
 
-**PRICE : 20$ **
+**PRICE : Contact us **
 
 **Sample Video:   [Video](https://youtu.be/A6mEkQZiP7M)**
 ---
