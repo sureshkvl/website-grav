@@ -1,17 +1,17 @@
 ---
-title: SDN Beginners course
+title: SDN Training for Professionals
 ---
 
-# SDN for Beginners / Openflow programming in RYU Controller !
+# SDN for Professionals !
 
 ## Introduction
 
-This course specifically built for beginners(students, professionals), who wants to learn SDN , Openflow and get hands on SDN Lab with Mininet, RYU SDN Controller, KNet.   
+This course specifically built for beginners(professionals - QA Professionals, Network Enginners), who wants to update their skills in Software Defined Networking.
 
 This training session works as below,
 
 1. Instructor will interact with students via video conferencing sites, for each week. 
-2. Recorded Videos will be shared for each week
+2. Recorded Videos will be shared.
 3. Email, Skype, Phone support for doubts, clarifications.
 
 ---
@@ -29,6 +29,8 @@ This training session works as below,
 * Layer3 addressing (IPv4 Address, Subnets)
 * How L2 Switch works
 * How L3 Router works
+* OSPF Routing topology configuration & demo
+* BGP Routing topology configuration & demo
 
 #### Part2: SDN Concepts
 
@@ -46,68 +48,60 @@ This training session works as below,
 * Wireshark Installation
 * Openvswitch Overview & Installation
 * RYU Controller Overview & Installation
+* ODL Controller Overview & Installation
 * Demo1: L2 Switch Demo with RYU
-
-#### Part4: Mininet
+* Demo2: L2 Switch Demo with ODL
 * Mininet Commands
 * Simple predefined Topologies
 * Running TCP Traffic Tests
-* Running UDP Traffic Tests
-* How to write Custom topology
-* Datacenter Topology
 * Topology with Multiple controllers
 
-#### Part5: Openflow in Detail
+#### Part4: Openflow in Detail
 * Introduction, Version Details
 * Message Types
 * Basic operations/Packet Matching
 * Match Types, Match Actions
 * Setting up a Flow
-* Flow Timers
+* Flow Times
 * Flow Table Format
 * Pipeline Processing
 
-#### Part6: RYU Controller
+#### Part5: RYU Controller
 * Introduction
 * Application Overview
 * L2 Switch Application
 * How to write RYU Application
-
-#### Part7: RYU Controller Exercises
-* L3 Match exercise 
-* L4 Match exercise
+* L3/L4 Match exercise 
 * Flow Timer exercise
 * Pipeline exercise
-* ARP Proxy
+* REST API
 
-#### Part8: Other SouthBound Interfaces
-* OVSDB
-* Configuring Openvswitch via OVSDB Interface
+#### Part6: OpenDayLight Controller
+* Installation
+* Application Installation, debug, logs overview
+* UI, Topology Viewer, YANG Browser
+* REST API
+* L2 Switch Demo in detail
 
-#### Part9: NorthBound Interfaces
-* RESTAPI
+#### Part7: Yang, Netconf, Restconf Interface
+* Network Autormation with YANG, NetConf, RESTConf
+* YANG, Netconf theory
+* NetConf - Python scripting/automation
+* RestConf - theory
+* Restconf - Demo
+* Netopeer2 netconf test image 
+* Opendaylight - RestConf demonstration
+* Opendaylight - NetConf  demonstration
 
-#### Part10: Statistics Measurement
-* Port Statistics
-* Flow Statistics
-
-#### Part11: Multicontroller Environment
-* Role Request / Response
-* Master /Slave concepts
-* Building High Available, Scalable environment
-
-
-#### Part12: MiniProjects (any one)
-* VLAN Implementation
-* QoS Implementation
-* DDoS Implementation
-* Router Implementation
+#### Part8: OVSDB Interface
 
 ---
 
+
 ## Schedule:
 
-To be updated.
+To be updated:
+
 ---
 
 ### Payment Terms:  

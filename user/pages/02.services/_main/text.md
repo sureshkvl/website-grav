@@ -1,28 +1,28 @@
 ---
 title: Trainings and Project Assistance
 pricing:
-    - name: SDN For Beginners
-      price: $100
+    - name: SDN Training for Students
+      price: $150
       options:
-        - line: Online Training      
-        - line: Recorded Videos
-        - line: Beginners Course 
+        - line: For Students             
+        - line: RYU SDN Controller
+        - line: Openflow programming             
         - line: Handson/Lab Exercises
-        - line: Immediate Support
-        - line: Weekly Review       
+        - line: Recorded Videos
+        - line: Miniproject & Support
       button_text: Full Details
       button_url: "sdnbeginners"
-    - name: RYU SDN Controller
-      price: $100
+    - name: SDN Training for Professionals
+      price: $250
       options:
-        - line: Online Training      
-        - line: Recorded Videos
+        - line: For Professionals             
+        - line: RYU, OpenDayLight Controllers
+        - line: Yang,NetConf,RestConf              
         - line: Advanced Course  
         - line: Exercises          
-        - line: Miniproject Ideas
-        - line: Weekly Review & Support        
+        - line: Support        
       button_text: Full Details
-      button_url: "ryutraining"
+      button_url: "sdnprofessionals"
     - name: RYU SDN Mini Projects
       price: -
       options:
