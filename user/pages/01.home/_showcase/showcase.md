@@ -2,9 +2,9 @@
 title: Showcase
 menu: Top
 slides:
-  - image: i1.jpg
-    heading: "<strong>Software Defined Networking </strong> Training Course !"
-    subheading: "Update your skills in SDN (Openflow, Openvswitch, OpenDayLight, RYU, KNet, Mininet) , Prepare for your academic/ research SDN projects with our training courses.."
+  - image: img2_big.jpg
+    heading: "<strong>SDN RYU OpenFlow </strong> Online Course, new batch Starts on November 1st Week !"
+    subheading: "This course helps students to learn SDN RYU Programming, specifically for academic students who are doing research SDN projects..  Limited to 5 Students per batch. Exercises/Miniprojects will be part of this course"
     button_text: TRAINING
     button_url: "services"
   - image: i2.jpg
@@ -22,6 +22,11 @@ slides:
     subheading: "Opensouce, Docker based, Modernized, SDN Test Environment.  Supports majororty of SDN Use cases"
     button_text: GITHUB
     button_url: "https://github.com/knetsolutions/knet/"  
+  - image: i1.jpg
+    heading: "<strong>Software Defined Networking </strong> Training Course !"
+    subheading: "Update your skills in SDN (Openflow, Openvswitch, OpenDayLight, RYU, KNet, Mininet) , Prepare for your academic/ research SDN projects with our training courses.."
+    button_text: TRAINING
+    button_url: "services"
 ---
 
 
