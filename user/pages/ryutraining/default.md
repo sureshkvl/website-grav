@@ -18,7 +18,7 @@ This training session works as below,
 
 ---
 
-### Duration:  ** 30 Hours **
+### Duration:  ** 20 Hours **
 
 ---
 

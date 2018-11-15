@@ -2,7 +2,7 @@
 title: Trainings and Project Assistance
 pricing:
     - name: SDN Training for Students
-      price: $150
+      price: ---
       options:
         - line: For Students             
         - line: RYU SDN Controller
@@ -13,7 +13,7 @@ pricing:
       button_text: Full Details
       button_url: "sdnbeginners"
     - name: SDN Training for Professionals
-      price: $250
+      price: ---
       options:
         - line: For Professionals             
         - line: RYU, OpenDayLight Controllers
@@ -24,7 +24,7 @@ pricing:
       button_text: Full Details
       button_url: "sdnprofessionals"
     - name: RYU SDN Mini Projects
-      price: -
+      price: ---
       options:
         - line: Router, VLAN, DoS Defender 
         - line: BGP Router Projects
@@ -35,7 +35,7 @@ pricing:
       button_text: Full Details
       button_url: "miniprojects"      
     - name: SDN Project Assistance
-      price:  $250+
+      price:  ---
       options:
         - line: 3 to 6 weeks
         - line: Training Included
@@ -56,17 +56,6 @@ pricing:
         - line: ------
       button_text: Full Details
       button_url: "odl_training"
-
-    - name: Openstack Training
-      price: Coming Soon
-      options:
-        - line: ------
-        - line: ------
-        - line: ------
-        - line: ------
-      button_text: Full Details
-      button_url: "openstack_training"
-
 
 ---
 ## Online Trainings and Project Assistance
