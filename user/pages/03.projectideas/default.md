@@ -1,5 +1,5 @@
 ---
-title: SDN Academic/Research Project Ideas
+title: Project Ideas
 ---
 
 # SDN Academic/University Project Ideas
