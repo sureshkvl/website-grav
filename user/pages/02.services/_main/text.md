@@ -1,41 +1,32 @@
 ---
 title: Trainings and Project Assistance
 pricing:
-    - name: SDN Training for Students
-      price: ---
+    - name: Beginners SDN Training
+      price: 150$
       options:
-        - line: For Students             
+        - line: Special Discount for Students           
         - line: RYU SDN Controller
-        - line: Openflow programming             
-        - line: Handson/Lab Exercises
+        - line: Openflow Programming             
+        - line: Openvswitch, OVSDB, BGP Speaker   
+        - line: 100% Handson/Lab Exercises
         - line: Recorded Videos
-        - line: Miniproject & Support
+        - line: Skype, Whatsapp, Email Support
       button_text: Full Details
       button_url: "sdnbeginners"
-    - name: SDN Training for Professionals
-      price: ---
+    - name: Advanced SDN Training
+      price: 150$
       options:
-        - line: For Professionals             
-        - line: RYU, OpenDayLight Controllers
-        - line: Yang,NetConf,RestConf              
-        - line: Advanced Course  
-        - line: Exercises          
-        - line: Support        
-      button_text: Full Details
-      button_url: "sdnprofessionals"
-    - name: RYU SDN Mini Projects
-      price: ---
-      options:
-        - line: Router, VLAN, DoS Defender 
-        - line: BGP Router Projects
-        - line: Source Code
+        - line: for Professionals
+        - line: YANG, NetConf, RESTConf
+        - line: OpenDayLight Controllers            
+        - line: Advanced Course
+        - line: 100% Handson/Lab Exercises          
         - line: Recorded Videos
-        - line: Support
-        - line: Improvement Ideas    
+        - line: Skype, Whatsapp, Email Support 
       button_text: Full Details
-      button_url: "miniprojects"      
+      button_url: "sdnprofessionals"   
     - name: SDN Project Assistance
-      price:  ---
+      price:  250$+
       options:
         - line: 3 to 6 weeks
         - line: Training Included
@@ -46,16 +37,5 @@ pricing:
         - line: RYU SDN
       button_text: Full Details
       button_url: "projects"
-
-    - name: Opendaylight Training
-      price: Coming Soon
-      options:
-        - line: ------
-        - line: ------
-        - line: ------
-        - line: ------
-      button_text: Full Details
-      button_url: "odl_training"
-
 ---
 ## Online Trainings and Project Assistance
