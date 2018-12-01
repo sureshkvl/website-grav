@@ -14,6 +14,9 @@ This training session works as below,
 2. Recorded Videos will be shared for each week
 3. Email, Skype, Phone support for doubts, clarifications.
 
+
+[Training Proposal Document](../files/SDN_BEGINNER.pdf)
+
 ---
 
 ### Duration:  ** 20 Hours **
@@ -96,12 +99,16 @@ This training session works as below,
 * Master /Slave concepts
 * Building High Available, Scalable environment
 
+#### Part12: RYU BGP Speaker
+* BGP Speaker
 
-#### Part12: MiniProjects (any one)
-* VLAN Implementation
-* QoS Implementation
-* DDoS Implementation
-* Router Implementation
+#### Part13: RYU Openstack integreation.
+* Openstack with RYU Demo
+
+
+#### Part14: Overlay concepts (GRE, vxlan)
+
+
 
 ---
 

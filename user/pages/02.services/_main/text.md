@@ -7,7 +7,7 @@ pricing:
         - line: Special Discount for Students           
         - line: RYU SDN Controller
         - line: Openflow Programming             
-        - line: Openvswitch, OVSDB, BGP Speaker   
+        - line: Openvswitch, OVSDB, BGP   
         - line: 100% Handson/Lab Exercises
         - line: Recorded Videos
         - line: Skype, Whatsapp, Email Support
