@@ -14,6 +14,7 @@ This training session works as below,
 2. Recorded Videos will be shared for each week
 3. Email, Skype, Phone support for doubts, clarifications.
 
+Click the below link to download the Training proposal document.
 
 [Training Proposal Document](../files/SDN_BEGINNER.pdf)
 
