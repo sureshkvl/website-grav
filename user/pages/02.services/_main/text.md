@@ -23,6 +23,17 @@ pricing:
         - line: Skype, Whatsapp, Email Support
       button_text: Full Details
       button_url: "sdnbeginners"
+    - name: Consulting
+      price: 15$
+      options:
+        - line: 1 hour
+        - line: gotomeeting
+        - line: one to one
+        - line: recorded session
+        - line: -
+        - line: -                                        
+      button_text: Full Details
+      button_url: "odl"   
     - name: OpenDayLight Training
       price: 50$
       options:
