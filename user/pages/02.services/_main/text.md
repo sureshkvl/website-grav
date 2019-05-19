@@ -2,29 +2,35 @@
 title: Trainings and Project Assistance
 pricing:
     - name: Beginners SDN Training
-      price: 150$
+      price: 30$
       options:
-        - line: Special Discount for Students           
+        - line: 7+ Hours Videos
+        - line: 100% Handson/Lab Exercises        
+        - line: Advanced Openflow concepts
         - line: RYU SDN Controller
-        - line: Openflow Programming             
-        - line: Openvswitch, OVSDB, BGP   
-        - line: 100% Handson/Lab Exercises
-        - line: Recorded Videos
         - line: Skype, Whatsapp, Email Support
       button_text: Full Details
       button_url: "sdnbeginners"
-    - name: Advanced SDN Training
-      price: 150$
+    - name: Network Automation with Netconf & Yang
+      price: Coming Soon..
       options:
-        - line: for Professionals
-        - line: YANG, NetConf, RESTConf
-        - line: OpenDayLight Controllers            
+        - line: 3+ Hours Videos
+        - line: 100% Handson/Lab Exercises        
+        - line: Python exercises
+        - line: OpenDayLight SDN Controller
+        - line: Skype, Whatsapp, Email Support
+      button_text: Full Details
+      button_url: "netconf"
+    - name: OpenDayLight Training
+      price: Coming soon
+      options:
+        - line: 5+ Hours Videos
+        - line: OpenDayLight Controller
         - line: Advanced Course
         - line: 100% Handson/Lab Exercises          
-        - line: Recorded Videos
         - line: Skype, Whatsapp, Email Support 
       button_text: Full Details
-      button_url: "sdnprofessionals"   
+      button_url: "odl"   
     - name: SDN Project Assistance
       price:  250$+
       options:
