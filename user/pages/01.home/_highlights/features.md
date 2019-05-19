@@ -16,7 +16,13 @@ features:
 
 ## What we are doing!
 
-We provide online Trainings in Software Defined Networking, from beginners to advanced level. Some of the key topics covered are Custom Topologies in Mininet, Openflow in detail, OpenDayLight, RYU, Developing SDN Applications in RYU, Miniprojects in SDN.  Also We conduct workshop in Colleges. We develop and manage the KNet SDN Test bed - Docker based Modern SDN Test environment. we contributes in RYU SDN Controller. 
+We provide Online Trainings in Software Defined Networking,from beginners to advanced level.
+
+We provide  guidance/assistance/consultation in Academic SDN Project 
+
+We conduct SDN workshop in Colleges. 
+
+We develop and manage the KNet SDN Test bed - Docker based Modern SDN Test environment. we contributes in RYU SDN Controller. 
 ___
 
 ## Client Testimonials & Reviews!

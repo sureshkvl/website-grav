@@ -10,7 +10,7 @@ buttons:
 ___
 
 ### Highlights
-## Students Trained - 91,   
-## Projects Guided - 10
+## Students Trained - 1150+
+## SDN Projects Guided - 100+
 
 ** We have students across the world (U.S, France, Germany, Malaysia, Brazil, India,....etc ) **
