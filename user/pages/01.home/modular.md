@@ -12,7 +12,6 @@ content:
         custom:
             - _showcase
             - _highlights
-            - _callout
             - _bottom
             - _contact
 ---
