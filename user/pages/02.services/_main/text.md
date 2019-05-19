@@ -2,7 +2,7 @@
 title: Trainings and Project Assistance
 pricing:
     - name: SDN Project Assistance
-      price:  250$+
+      price:  150$+
       options:
         - line: 3 to 6 weeks
         - line: Training Included
