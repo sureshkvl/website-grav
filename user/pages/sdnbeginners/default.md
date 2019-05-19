@@ -15,6 +15,7 @@
 **LAB Environment**
 - Ubuntu 18.04 Desktop Version (VM/Desktop/Laptop)
 
+--
 
 # What will you Gain:
 
@@ -23,10 +24,11 @@
 # Support
 
 - Support will be provided in EMAIL/WHATSAPP.
-- Instructor will conduct Open Meeting(https://www.gotomeeting.com) for 45mins(everyweek) to discuss with Students and clarify the doubts.
 
+--
 
 # Syllabus
+
 
 ## Part1 - SDN Intro & Lab Setup
 
@@ -59,17 +61,21 @@
 8. Multicontroller (doc and video pending)
 9. REST API (doc and video pending)
 
+--
+
 # Registration & Fees
+
 
 ## Fees
 
-Indian Students : **Rs.2000(Inclusive of 18% GST)**
-Foreign Students: **30 U.S.Dollar**
-Payment Method:  
+1. Indian Students : **Rs.2000( + 18% GST)**
+2. Foreign Students: **30 U.S.Dollar + 8% Transcation charge**
+3. Payment Method:  
 	- Indian Bank Transfer / Paypal
 
 
 ## Registration
+
 - You require a gmail(google email) address.
 - Send a Enquiry Email(with Name,Address,Phone No) to  KNETSOLUTIONS2@GMAIL.COM 
 - We will send a Payment Methods in email
