@@ -47,7 +47,7 @@
 4. Group Table Theory and Demo
 5. Statistics Collection
 6. Meter Table Theory and Demo
-7. Flow Manager - RYU Web UI (video to be prepared)
+7. Flow Manager - RYU Web UI 
 
 ## Part3 - Writing Application in RYU
 
@@ -56,10 +56,10 @@
 3. Writing Statistics collections 
 4. Providing Configuration  to the Application
 5. Writing Group Table application
-6. Packet Parsining/Encoding (video pending) 
-7. Topology Discovery (video pending)
-8. Multicontroller (doc and video pending)
-9. REST API (doc and video pending)
+6. Packet Parsining/Encoding
+7. Topology Discovery
+8. Multicontroller
+9. REST API
 
 --
 
