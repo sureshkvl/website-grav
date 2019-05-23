@@ -1,4 +1,4 @@
-title: Knet Solutions
+title: Knet Solutions - SDN Projects , Online SDN Training
 author:
   name: Suresh Kumar                      # Default author name
   email: 'knetsolutions2@gmail.com'                   # Default author email
@@ -33,8 +33,9 @@ taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
 metadata:
-    description: 'Online SDN Training , SDN Projects, SDN Project centre, SDN Project guide, Opendaylight Training, RYU Training, Openflow Training, Tamilnadu , India'
-    keywords: 'SDN, Software Defined Networking, SDN Projects, SDN IEEE Projects, SDN Academic Projects, SDN Training, Mininet, RYU, Opendaylight, Openstack'
+    google-site-verification: "LH5pPzqtttwhMxUIH7ecXY5wT0S1A9cJdYri4WpcpNE"
+    description: 'SDN Projects, Online SDN Training , SDN Project centre, SDN Project guide, Opendaylight Training, RYU Training, Openflow Training, Tamilnadu , India'
+    keywords: 'SDN Projects, Software Defined Networking,  SDN IEEE Projects, SDN Academic Projects, SDN Training, Mininet, RYU, Opendaylight, Openstack'
 summary:
   size: 300                                 # Maximum length of summary (characters)
 
