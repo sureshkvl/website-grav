@@ -11,7 +11,7 @@ pricing:
         - line: Recorded Video
         - line: Development
       button_text: Full Details
-      button_url: "projects"
+      button_url: "sdn-projects"
     - name: Beginners SDN Training
       price: 30$
       options:
@@ -22,18 +22,18 @@ pricing:
         - line: Exercises
         - line: Skype, Whatsapp, Email Support
       button_text: Full Details
-      button_url: "sdnbeginners"
+      button_url: "sdn-training-beginners"
     - name: Consulting
       price: 15$
       options:
         - line: 1 hour
         - line: gotomeeting
         - line: one to one
-        - line: recorded session
+        - line: -
         - line: -
         - line: -                                        
       button_text: Full Details
-      button_url: "odl"   
+      button_url: "sdn-projects"   
     - name: OpenDayLight Training
       price: 50$
       options:
@@ -44,6 +44,6 @@ pricing:
         - line: -
         - line: -                                        
       button_text: Full Details
-      button_url: "odl"   
+      button_url: "sdn-mini-projects"   
 ---
 ## Online Trainings and Project Assistance

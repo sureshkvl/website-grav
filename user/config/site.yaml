@@ -34,8 +34,10 @@ blog:
   route: '/blog'                            # Route to blog
 metadata:
     google-site-verification: "LH5pPzqtttwhMxUIH7ecXY5wT0S1A9cJdYri4WpcpNE"
-    description: 'SDN Projects, Online SDN Training , SDN Project centre, SDN Project guide, Opendaylight Training, RYU Training, Openflow Training, Tamilnadu , India'
-    keywords: 'SDN Projects, Software Defined Networking,  SDN IEEE Projects, SDN Academic Projects, SDN Training, Mininet, RYU, Opendaylight, Openstack'
+    title: 'SDN Projects - SDN Thesis - SDN IEEE Projects - MTech Phd Projects - SDN IOT Projects'
+    tag: 'SDN Training, SDN Projects, SDN Thesis, Openflow Projects, Mininet Projects'
+    description: 'We guide academic SDN Projects with Openflow, mininiet, KNET, RYU SDN Controller. Advanced projects Multicontroller, BGP, Multipath, Loadbalancer, OVSDB, VxLAN, Flow Management, Switch Migration. We provide Online SDN Training in RYU, Opendaylight and Openvswitch'
+    keywords: 'SDN Projects, Software Defined Networking,  SDN IEEE Projects, SDN Academic Projects, SDN Training, Mininet, RYU, Opendaylight, Openvswitch'
 summary:
   size: 300                                 # Maximum length of summary (characters)
 
