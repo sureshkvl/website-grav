@@ -4,6 +4,12 @@ title: Project Ideas
 
 # SDN Academic/University Project Ideas
 
+**Few miniproject**
+
+[SDN Mini Projects](../sdn-mini-projects)
+
+
+
 ## 1.  Addressing the Flow table fullfill(flow table exhaust) issue 
 
 In Hardware Openflow switches, Flow table suffers from the limited storage due to the use of TCAM — on which the flow table is realized in the majority of existing equipments in industry to achieve fast forwarding.	As a result, after the flow table is full filled, the switch behavior is unexpected on both forwarding and control plane.
@@ -14,13 +20,6 @@ The reason of the fast flow entry occupation is due to the fine-grained flow ent
 ## 2. DDoS Detection/Mitigation
 
 Early detection of DDoS, and mitigation is challenging and ongoing research activity in SDN security area.
-
-video tutorials on the same,
-
-https://www.youtube.com/watch?v=8E83CSRKwCo&t=13s
-https://www.youtube.com/watch?v=g_bM780lYI4
-https://www.youtube.com/watch?v=PFShXmWJn1E
-
 
 
 ## 3. Policy based Forwarding

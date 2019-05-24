@@ -34,8 +34,18 @@ we work online and conducts project training in gotomeeting. so no restriction o
 21. Server Load balancing with Virtual IP
 22. QoS using Meter Table / Queuing
 23. Switch Migration
-23. SDN IOT Projects
+23. SDN IOT Projects 
+
+[SDN IOT Projects](../sdn-iot-projects)
+
+[SDN IEEE Projects](../sdn-ieee-projects)
+
+[SDN Wireless Projects](../sdn-wireless-projects)
+
    and much more.
+
+
+
 
 ---
 
@@ -45,17 +55,34 @@ we work online and conducts project training in gotomeeting. so no restriction o
 
 ### Payment Terms:  
 
+* 10% advance
 * 50% Milestone1.
-* 50% Milestone2.
+* 40% Milestone2.
 
 ###  Payment Methods 
 * For International Students:  
-   Paypal, Payoneer payment Gateway - Transcational charges applicable
+   Paypal, - 8% Transcational charges applicable
 
 * For Indian Students:  
    Bank Transfer - 18% GST applicable
 
 ---
+
+
+We have students across all major cities Chennai Bangalore Hyderabad Mumbai calcutta and all over India.  
+
+Also we have students across all over the world.
+
+
+[Chennai](../sdn-project-center-in-chennai)
+[Bangalore](../sdn-project-center-in-bangalore)
+[hyderabad](../sdn-project-center-in-hyderabad)
+[india](../sdn-project-center-in-india)
+
+
+
+
+
 
 ### Terms:
 
