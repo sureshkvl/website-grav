@@ -8,7 +8,7 @@ contact:
     - line: "Pallikaranai"
     - line: "Chennai, TamilNadu"
     - line: "India"
-    - line: "Phone:  +91 9445042007"
+    - line: "Whatsapp/Phone:  +91 9445042007"
 othermenu:
   - text: "About"
     url: "about"
@@ -34,10 +34,10 @@ blog:
   route: '/blog'                            # Route to blog
 metadata:
     google-site-verification: "LH5pPzqtttwhMxUIH7ecXY5wT0S1A9cJdYri4WpcpNE"
-    title: 'SDN Projects - SDN Thesis - SDN IEEE Projects - MTech Phd Projects - SDN IOT Projects'
+    title: 'SDN Projects - Online SDN Training - SDN IEEE Projects - MTech Phd Projects - SDN IOT Projects - Chennai Bangalore Hyderabad Kolkatta Delhi Mumbai India'
     tag: 'SDN Training, SDN Projects, SDN Thesis, Openflow Projects, Mininet Projects'
-    description: 'We guide academic SDN Projects with Openflow, mininiet, KNET, RYU SDN Controller. Advanced projects Multicontroller, BGP, Multipath, Loadbalancer, OVSDB, VxLAN, Flow Management, Switch Migration. We provide Online SDN Training in RYU, Opendaylight and Openvswitch'
-    keywords: 'SDN Projects, Software Defined Networking,  SDN IEEE Projects, SDN Academic Projects, SDN Training, Mininet, RYU, Opendaylight, Openvswitch'
+    description: 'We guide academic SDN Projects, SDN Thesis, SDN IEEE Projects with Openflow, mininet - MTech Phd projects. We provide Online SDN Training in RYU, Opendaylight, Chennai Bangalore Hyderabad Mumbai Kolkatta Delhi India'
+    keywords: 'SDN Projects, SDN IEEE Projects, SDN MTech Projects, SDN Thesis, SDN Training, Mininet Projects, Openflow projects, Online SDN Training, Opendaylight training, SDN Project center in chennai, SDN project center in Bangalore, SDN Project center in hyderabad,  SDN Project center in India'
 summary:
   size: 300                                 # Maximum length of summary (characters)
 
