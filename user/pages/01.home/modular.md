@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 menu: Home
 onpage_menu: false
 body_classes: "modular header-image fullwidth"

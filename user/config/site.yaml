@@ -1,4 +1,4 @@
-title: Knet Solutions - SDN Projects , Online SDN Training
+title: Knet Solutions - SDN Training - SDN Project Assistance
 author:
   name: Suresh Kumar                      # Default author name
   email: 'knetsolutions2@gmail.com'                   # Default author email
@@ -34,9 +34,9 @@ blog:
   route: '/blog'                            # Route to blog
 metadata:
     google-site-verification: "LH5pPzqtttwhMxUIH7ecXY5wT0S1A9cJdYri4WpcpNE"
-    title: 'SDN Projects - Online SDN Training - SDN IEEE Projects - MTech Phd Projects - SDN IOT Projects - Chennai Bangalore Hyderabad Kolkatta Delhi Mumbai India'
+    title: 'SDN Training & Project assistance'
     tag: 'SDN Training, SDN Projects, SDN Thesis, Openflow Projects, Mininet Projects'
-    description: 'We guide academic SDN Projects, SDN Thesis, SDN IEEE Projects with Openflow, mininet - MTech Phd projects. We provide Online SDN Training in RYU, Opendaylight, Chennai Bangalore Hyderabad Mumbai Kolkatta Delhi India'
+    description: 'Best Online Software Defined Networking (SDN) Training center. Excellent SDN Course. Best Academic SDN Project center in Chennai. Final year Projects, CSE mini projects.' 
     keywords: 'SDN Projects, SDN IEEE Projects, SDN MTech Projects, SDN Thesis, SDN Training, Mininet Projects, Openflow projects, Online SDN Training, Opendaylight training, SDN Project center in chennai, SDN project center in Bangalore, SDN Project center in hyderabad,  SDN Project center in India'
 summary:
   size: 300                                 # Maximum length of summary (characters)

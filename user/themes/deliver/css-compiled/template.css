@@ -612,6 +612,7 @@ hr {
   float: left;
   clear: both;
   background: #87b672;
+  text-transform: uppercase;
   color: #fff; }
 
 .label {
