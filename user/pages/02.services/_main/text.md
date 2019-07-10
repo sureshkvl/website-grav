@@ -1,28 +1,50 @@
 ---
 title: Trainings and Project Assistance
 pricing:
-    - name: SDN Project Assistance
-      price:  150$+
-      options:
-        - line: 3 to 6 weeks
-        - line: Training Included
-        - line: Phased delivery 
-        - line: Continuous Support
-        - line: Recorded Video
-        - line: Development
-      button_text: Full Details
-      button_url: "sdn-projects"
-    - name: Beginners SDN Training
-      price: 30$
+    - name: UDEMY - SDN Crash Course(RYU)
+      price: 10$
       options:
         - line: 7+ Hours Videos
         - line: 100% Handson/Lab Exercises        
         - line: Advanced Openflow concepts
         - line: RYU SDN Controller
         - line: Exercises
-        - line: Skype, Whatsapp, Email Support
+        - line: Discouned Price
       button_text: Full Details
-      button_url: "sdn-training-beginners"
+      button_url: "https://www.udemy.com/beginners-sdn-course-with-ryu-controller-practical-handson/?couponCode=TEN_DOLLAR"
+    - name: UDEMY - Netconf,Yang SDN Course(ODL)
+      price: 10$
+      options:
+        - line: 3+ Hours Videos
+        - line: 100% Handson/Lab Exercises
+        - line: CiscoDevNet LAB
+        - line: OpenDayLight SDN
+        - line: Exercises
+        - line: Discounted Price
+      button_text: Full Details
+      button_url: "https://www.udemy.com/learn-netconf-yang-sdn-opendaylight-with-practical/?couponCode=NETCONF_PROMO"
+    - name: UDEMY - Terraform with Openstack
+      price: 10$
+      options:
+        - line: 2.5+ Hours Videos
+        - line: 100% Handson/Lab Exercises
+        - line: step by step by learning
+        - line: Openstack cloud 
+        - line: Exercises
+        - line: Discounted Price
+      button_text: Full Details
+      button_url: "https://www.udemy.com/learn-terraform-with-openstack-practical-exercises/?couponCode=PROMO1"
+    - name: SDN Project Assistance
+      price:  150$+
+      options:
+        - line: 3 to 6 weeks
+        - line: Training Included
+        - line: Phased delivery
+        - line: Continuous Support
+        - line: Recorded Video
+        - line: Development
+      button_text: Full Details
+      button_url: "sdn-projects"
     - name: Consulting
       price: 15$
       options:
@@ -35,7 +57,7 @@ pricing:
       button_text: Full Details
       button_url: "sdn-projects"   
     - name: OpenDayLight Training
-      price: 50$
+      price: -
       options:
         - line: coming soon
         - line: -

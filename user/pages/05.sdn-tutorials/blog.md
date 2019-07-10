@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: SDN Tutorials
 blog_url: blog
-menu: Blog
+menu: SDN Tutorials
 body_classes: header-lite fullwidth blogstyling
 bg_color: "#B4B093"
 

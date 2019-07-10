@@ -21,8 +21,6 @@ We provide Online Trainings in Software Defined Networking,from beginners to adv
 We provide  guidance/assistance/consultation in Academic SDN Project 
 
 We conduct SDN workshop in Colleges. 
-
-We develop and manage the KNet SDN Test bed - Docker based Modern SDN Test environment. we contributes in RYU SDN Controller. 
 ___
 
 ## Client Testimonials & Reviews!
